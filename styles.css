@@ -1,0 +1,15 @@
+html {
+    background-color:azure;
+    font-family: system-ui, sans-serif;
+}
+
+#searchForm {
+    border: solid darkslategrey 5px;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+#submit {
+    padding:.5%;
+    margin: 1%;
+}
